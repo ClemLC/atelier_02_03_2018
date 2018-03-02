@@ -1,24 +1,7 @@
-# README
+# Atelier du 02 03 2018 avec David
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Boostrap
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* add gem Boostrap to gemfile (https://github.com/twbs/bootstrap-rubygem
+* go to starbootstrap.com / templates / Bare (https://blackrockdigital.github.io/startbootstrap-bare/)
+* display code source, and copy paste what you need
